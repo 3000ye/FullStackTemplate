@@ -1,0 +1,15 @@
+[mysql]
+[mysql.base]
+MYSQL_URL = "mysql+pymysql://huangchuangui:password@172.16.9.10:3306/huangchuangui?charset=utf8"
+PASSWORD = "nfyernFkpayd93fA"
+
+[auth]
+SECRET_KEY = "FullStackTemplate"
+ALGORITHM = "HS256"
+
+[email]
+ACCOUNT = "..."
+PASSWORD = "..."
+
+[dingtalk]
+ERROR = "..."
